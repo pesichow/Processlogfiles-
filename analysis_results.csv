@@ -1,0 +1,21 @@
+IP Address,Request Count,City,Country
+203.0.113.5,8,Unknown,Unknown
+198.51.100.23,8,Unknown,Unknown
+192.168.1.1,7,Unknown,Unknown
+10.0.0.2,6,Unknown,Unknown
+192.168.1.100,5,Unknown,Unknown
+
+Endpoint,Access Count
+/login,13
+/home,5
+/about,5
+/dashboard,3
+/contact,2
+/register,2
+/profile,2
+/feedback,2
+
+IP Address,Failed Login Count
+
+Hour,Request Count
+10,34
